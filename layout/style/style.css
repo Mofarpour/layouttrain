@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+.customers {
+  width: 100%;
+}
+.customersname {
+  width: 33.3%;
+  float: left;
+  padding: 30px;
+  text-align: center;
+}
